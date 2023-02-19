@@ -1,2 +1,1 @@
-# ObjectOrientedProgramming
-Introduction to the concepts of Object Oriented Programming
+## A set of completed projects from the course (Κ10 Object Oriented Programming)
